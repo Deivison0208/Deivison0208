@@ -2,7 +2,7 @@
 <br>
 
 
-[![instagram](https://img.shields.io/badge/PORTFÓLIO-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://deivisonmenezesdevs.000webhostapp.com/#_)
+[![instagram](https://img.shields.io/badge/PORTFÓLIO-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://deivisonmenezesdevs.000webhostapp.com/#_ target="_blank")
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deivisonmenezes_)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/neguinhodacbx)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
